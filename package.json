@@ -1,0 +1,24 @@
+{
+  "name": "dbtest0001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insell824/dbtest0001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insell824/dbtest0001/issues"
+  },
+  "homepage": "https://github.com/insell824/dbtest0001#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "insell-node-process-life-manager": "github:insell824/node-process-life-manager",
+    "mongodb": "^3.5.5"
+  }
+}
